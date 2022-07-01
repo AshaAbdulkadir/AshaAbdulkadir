@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ...Java
 - 🌱 I’m currently learning ...Back End Software Development materials
-- 👯 I’m looking to collaborate on ...Java Projects
+- 👯 I’m looking to collaborate on ...Open Source
 - 🤔 I’m looking for help with ...Java
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...DM on Slack at Asha
