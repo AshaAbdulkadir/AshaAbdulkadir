@@ -9,4 +9,3 @@
 - 📫 How to reach me: ...DM on Slack at Asha
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I speak 3 languages (English, Swahili and Oromo)
--->
