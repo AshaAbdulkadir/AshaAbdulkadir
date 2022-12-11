@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ...Portfolio Projects
-- 🌱 I’m currently learning ...Java, MySQl, Spring Boot
+- 🌱 I’m currently learning ...Back End and Front End Skills
 - 👯 I’m looking to collaborate on ...Application Development 
 - 🤔 I’m looking for help with ...Getting a job as a software developer
 - 💬 Ask me about ...Anything
