@@ -1,8 +1,8 @@
 ### Hello World, I'm Asha 👋
 
 
-- 🔭 I’m currently working on ... Professional Personal website project
-- 🌱 I’m currently self-teaching ... Javascript/HTML/CSS 
+- 🔭 I’m currently working on ... AZ-104
+- 🌱 Always working on a project
 - 👯 I’m looking to collaborate on ... Application Development 
 - 🤔 Always ready to learn 
 - 💬 Ask me about ... anything
