@@ -8,4 +8,4 @@
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... LinkedIn
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I speak 3 languages fluently (English, Swahili and Oromo)
+- ⚡ Fun fact: ...I speak 4 languages fluently (English, Swahili, Boranaand Oromo)
