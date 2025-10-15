@@ -13,7 +13,7 @@
 ### ⚡️ Tech Snapshot
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Intune-%2300A4EF.svg?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft365-%2300A4EF.svg?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira%20Service%20Management-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/YouTube-Tech%20Code%20Cloud-red?style=for-the-badge&logo=youtube"/>
   </a>
   <a href="mailto:">
-    <img src="https://img.shields.io/badge/Email-asha%40example.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-asha%40TC2.com-darkgreen?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
