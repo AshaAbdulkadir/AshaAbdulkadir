@@ -12,7 +12,7 @@ From Azure to Atlassian Suite, I focus on **cloud infrastructure, service reliab
 - ☁️ **Cloud Stack:** Microsoft Azure · Grafana · Intune · Atlassian (Jira + Confluence) · PowerShell · GitHub Actions  
 - 🎓 **Education:** B.S. in Technology Management – *Lipscomb University*  
 - 🧩 **Certifications:** AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Pursuing AZ-104 & Solution Architect  
-- 💬 **Community:** Host of *Tech Code Cloud* — a training series simplifying Tech concepts 
+- 💬 **Community:** Host of *Tech Code Cloud - TC2* — a training series simplifying Tech concepts 
 
 ---
 
@@ -41,7 +41,7 @@ From Azure to Atlassian Suite, I focus on **cloud infrastructure, service reliab
 
 ### 📫 Connect With Me  
 - [LinkedIn](https://linkedin.com/in/ashaabdulkadir)  
-- [YouTube – Tech Serve](#)  
+- [YouTube – Tech Serve](UC8yanWkSScmzT4b_QRjwuZw)  
 - [Email]()  
 
 ---
