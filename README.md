@@ -41,7 +41,7 @@ From Azure to Atlassian Suite, I focus on **cloud infrastructure, service reliab
 
 ### 📫 Connect With Me  
 - [LinkedIn](https://linkedin.com/in/ashaabdulkadir)  
-- [YouTube – Tech Serve](www.youtube.com/@TechCodeCloud)  
+- [YouTube – Tech Serve](https://www.youtube.com/@TechCodeCloud)  
 - [Email]()  
 
 ---
