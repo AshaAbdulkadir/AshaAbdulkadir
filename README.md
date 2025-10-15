@@ -27,7 +27,8 @@
 - ☁️ **Cloud Stack:** Microsoft Azure · Grafana · Intune · Atlassian (Jira + Confluence) · PowerShell · GitHub Actions  
 - 🎓 **Education:** B.S. in Technology Management – *Lipscomb University*  
 - 🧩 **Certifications:** AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Pursuing AZ-104 & AZ-305 (Solution Architect)  
-- 💬 **Community:** Host of *Tech Code Cloud – TC²* — a training series simplifying tech concepts  
+- 💬 **Community:** Host of *Tech Code Cloud – TC²* — a training series simplifying tech concepts
+- 🌍 Languages: Fluent in English, Swahili, Oromo, Borana, and other dialects
 
 ---
 
@@ -78,7 +79,25 @@ Today, that same curiosity fuels my drive for **cloud innovation, automation, an
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
   <br/>
-  <sub><strong style="color:#00FFFF;">Build with purpose. Automate with intention. Lead with empathy.</strong></sub>
+  <sub><strong style="color:#00FFFF;">Discipline is the bridge between who I am and the leader I’m becoming.</strong></sub>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+  <br/>
+  <sub><strong>“Great systems aren’t just built — they’re designed with clarity, purpose, and the people who use them in mind.”</strong></sub>
+</p>
+
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="divider"/>
+  <br/>
+  <sub><strong>“The goal isn’t just to lead in tech — it’s to build systems that help others rise with you.”</strong></sub>
 </p>
 
 
