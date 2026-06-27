@@ -24,9 +24,10 @@
 
 ### 🧠 About Me  
 - 💻 **Current Focus:** Azure, Microsoft 365, Jira Service Management, Confluence, and Managed Grafana dashboards  
-- ☁️ **Cloud Stack:** Microsoft Azure · Grafana · Intune · Atlassian (Jira + Confluence) · PowerShell · GitHub Actions  
-- 🎓 **Education:** B.S. Technology Management – *Lipscomb University*
-- 🎓 **Education:** M.S. Applied AI – *Lipscomb University* 
+- ☁️ **Cloud Stack:** Microsoft Azure · Grafana · Intune · Atlassian (Jira + Confluence) · PowerShell · GitHub Actions
+- 🎓 **Undergraduate:** B.S. Computer Science – *Austin Peay State University*
+- 🎓 **Undergraduate:** B.S. Technology Management – *Lipscomb University*
+- 🎓 **Graduate:** M.S. Applied AI – *Lipscomb University* 
 - 🧩 **Certifications:** AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Backend Software Development · Pursuing AZ-104 & AZ-305 (Solution Architect)  
 - 💬 **Community:** Host of *Tech Code Cloud – TC²* — a training series simplifying tech concepts
 - 🌍 Languages: Fluent in English, Swahili, Oromo, Borana, and other dialects
