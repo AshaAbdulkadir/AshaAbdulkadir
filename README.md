@@ -27,7 +27,7 @@
 - ☁️ **Cloud Stack:** Microsoft Azure · Grafana · Intune · Atlassian (Jira + Confluence) · PowerShell · GitHub Actions
 - 🎓 **Associate Degree:** Associate of Science – *Nashville State Community College*
 - 🎓 **Undergraduate:** B.S. Computer Science – *Austin Peay State University*
-- 🎓 **Back End Software Development:** @PromineoTechBootCamp – *Nashville State Community College*
+- 🎓 **Back End Software Development** @PromineoTechBootCamp – *Nashville State Community College*
 - 🎓 **Undergraduate:** B.S. Technology Management – *Lipscomb University*
 - 🎓 **Graduate:** M.S. Applied AI – *Lipscomb University* 
 - 🧩 **Certifications:** AWS Cloud Practitioner · Microsoft Azure Fundamentals (AZ-900) · Backend Software Development · Pursuing AZ-104 & AZ-305 (Solution Architect)  
