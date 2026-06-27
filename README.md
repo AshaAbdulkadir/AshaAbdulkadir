@@ -1,7 +1,7 @@
 <!-- ✨ Futuristic GitHub Profile README for Asha Abdulkadir -->
 
 <h1 align="center">⚡ Hi, I’m <span style="color:#00BFFF;">Asha Abdulkadir</span> 👋🏾</h1>
-<h3 align="center">Jr Data Engineer @ VasoHealthcare | Cloud & AI Enthusiast | Future CTO 🚀</h3>
+<h3 align="center">New Data Engineer @ VasoHealthcare | Cloud & AI Enthusiast | Future CTO 🚀</h3>
 
 <p align="center">
   <em>Building scalable, secure, and human-centered systems that make technology work better for people.</em><br/>
